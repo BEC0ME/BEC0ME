@@ -1,5 +1,4 @@
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEC0ME&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
